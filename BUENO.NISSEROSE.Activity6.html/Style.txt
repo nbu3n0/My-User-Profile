@@ -1,0 +1,134 @@
+body {
+	display: grid;
+	place-items: center;
+	background: #626844;
+	padding: 60px 80px 100px;
+.main {
+	border: black 5px solid;
+	border-radius: 10px;
+	background: #EAE0BD;
+	width: 1060px;
+	height: 1500px;
+	padding: 30px 60px 100px;
+}
+#img1 {
+	float: right;
+	display: block;
+	margin-right: 10px;
+	height: 230px;
+	width: 230px;
+	
+}
+h1 {
+	font-size: 40pt;
+}
+.container {
+	display: flex;
+	font-size: 20pt;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	column-gap: 2em;
+	margin-bottom: 15px;
+}
+hr {
+	border: none;
+	height: 5px;
+	background-color: #626844;
+}
+.last {
+	display: flex;
+	font-size: 20pt;
+	flex-wrap: wrap;
+	align-content: flex-start;
+	margin-top: 20px;
+}
+h2 {
+	font-size: 30px;
+}
+p {
+	font-size: 20pt;
+	text-align: justify;
+}
+.box {	
+	font-size: 20pt;
+	float: left;
+	margin-left: 30px;
+}
+#year {
+	display: inline-block;
+	margin-left: 100px;
+}
+#shsschool {
+	margin-top: 10px;
+}	
+#shs {
+	margin-top: 10px;
+}
+.bullets { 
+	font-size: 20pt;
+	float: left;
+	margin-left: 30px;
+}
+#soft {
+	display: inline-block;
+	margin-left: 90px;
+	text-align: left;
+}
+.content4 {
+	display: inline-block;
+}
+dt {
+	font-size: 20pt;
+}
+.achieve {
+	font-size: 20pt;
+	float: left;
+	margin-left: 30px;	
+}
+#certify {
+	display: flex;
+  	flex-direction: column;
+  	gap: 15px; 
+}
+#ref {
+	margin-top: -20px;
+	display: inline-block;
+	margin-left: 60px;
+}
+#title {
+	margin-right: 900px;
+}
+.container2 {
+	border: 5px solid;
+	border-radius: 10px;
+	font-size: 25pt;
+	background: #EAE0BD;
+	width: 1060px;
+	height: 100px;
+	padding: 50px 60px 80px;
+}
+.socials {
+	justify-content: center;
+	margin-left: 90px;
+}
+#fb {
+	display: flex;
+  	flex-direction: column;
+  	gap: 15px; 
+	margin-top: 10px;
+	margin-left: 60px;
+}
+#insta {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	margin-top: -110px;
+	margin-left: 400px;
+}
+#teleg {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	margin-top: -110px;
+	margin-left: 320px;
+}

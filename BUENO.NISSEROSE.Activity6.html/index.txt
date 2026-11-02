@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <img src="My Picture.png" alt="A Photo of me" height="250px" width="250px" id="img1">
+
+        <h1>Nisse Rose R. Bueno</h1>
+
+        <div class="container">
+            <div class="row" id="row1">09811863400</div>
+            <div class="row" id="row2">nrosebueno@gmail.com</div>
+
+            <div class="last">
+                <div id="bottom">Blk. 5 Balete St., Gordon Heights, Olongapo City, Zambales</div>
+            </div>
+        </div>
+
+	<br>
+	<hr>
+
+        <div class="content1">
+            	<h2>Professional Summary</h2>
+            		<p>An aspiring information technology student with a developing foundation in computer hardware, basic 
+			troubleshooting, and operating system. Eager to gain practical experience and knowledge, while 
+			contributing strong problem-solving, teamwork, reliability, and communication skills.</p>
+	</div>
+        <div class="content2">
+            	<h2>Education</h2>
+            		<div class="box" id="school">
+				<li>Gordon College</li>
+				 <dd>Majoring in Information Technology (Bachelor of Science)</dd>
+			<div id="shsschool">
+				<li>St. Joseph College Olongapo Inc. – Senior</li>
+				 <dd>Majoring in Information Technology (Bachelor of Science)</dd>
+			</div>
+			</div>
+		</div>
+			<div class="box" id="year">
+					<center>
+				Expected Graduation:
+				<dt>2026-2029</dt>
+			<div id="shs">
+				<dt>Gradution:</dt>
+				<dt>2024-2026</dt>
+			</div>	
+<br>
+					</center>
+			</div>
+
+	<div class="content3">
+<br>
+            	<h2>Technical & Soft Skills</h2>
+            		<div class="bullets" id="technical">
+				<li>Intermediate Microsoft Word Skill </li>
+				<li>Intermediate Microsoft ExcelSkill </li>
+				<li>Basic Troubleshooting Skill</li>
+			</div>
+		</div>
+			<div class="bullets" id="soft">
+
+				<li>Basic Troubleshooting Skill</li>
+				<li>Teamwork</li>
+				<li>Critical Thinking</li>	
+<br>
+			</div>
+
+	<div class="content4">
+            	<h2>Experience</h2>
+			<dt>80 Hours Work Immersion</dt>
+            		<p>Deployed in SBMA Management Information Systems Office, was designated at the Data Center and 
+			assisted an employee and taught us about the technologies used in the office, the function and purpose of 
+			the Data Center Office. Applied basic troubleshooting skills, improved more through hands-on tasks and 
+			learned fundamental electronic parts. </p>
+	</div>
+	
+	<div class="content5">
+		<h2>Experience / Certificates</h2>
+			<div class="achieve" id="certify">
+				<li>Outstanding Performance in Tech-Voc Education (CSS)</li>
+				<li>Outstanding Performance in Tech-Voc Education (Work Immersion)</li>
+				<li>Intern Robothon Task Base 2nd Placer</li>
+			</div>
+			<center>
+			<div class="achieve" id="ref">
+				Engr. Aileen Atrero
+				<dt>09493624496</dt>
+				<dt>Eigemen Go</dt>
+				<dt>09563523551</dt>
+			</div>
+			</center>
+		</div>
+	</div>
+<br>
+	<h1 style="color:#EAE0BD;" id="title">My Socials</h1>
+		<div class="container2">
+			<div class="socials" id="fb"><b>Facebook</b>
+				<a href="https://www.facebook.com/n1ss3r0s3?rdid=bZJGmkZi69CEysKq&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19vywBNArB%2F#"
+				target="_blank"
+				title="Goes to Facebook">Nisse Rose R. Bueno
+				</a>
+
+			<div class="socials" id="insta"><b>Instagram</b>
+				<a href="https://www.instagram.com/niz.rsb?xtok=MXBhMW1ucjB5d3h4cQ=="
+				target="_blank"
+				title="Goes to Instagram">niz.rsb
+				</a>
+			
+			<div class="socials" id="teleg"><b>Telegram</b>
+				<a href="https://t.me/bnr0s3"
+				target="_blank"
+				title="Goes to Telegram">@bnr0s3
+				</a>
+			</div>
+			</div>
+		</div>
+		
+	</div>
+</body>
+</html>
